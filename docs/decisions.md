@@ -2,7 +2,7 @@
 
 The build's copy of the decision log. The discussion happens in the product plan (https://claude.ai/artifact/KrXX51vr7fGbrnPoXQRG3q), and every decision made there is copied here. A decision made during a coding session gets added here too, with the date, and flagged to Indy.
 
-Last synced: 2026-11-02.
+Last synced: 2026-11-04.
 
 ## North star
 
@@ -59,8 +59,16 @@ Atlas puts the knowledge of your network and of locals ahead of generic AI and p
 | 21 | Sending | Send button outlines the screen; becomes Cancel and Send N; Filters stays available; Send asks who, with friend search. |
 | 22 | Receiving | Send button carries the notification badge. Opening a friend's map shows only their spots. Save one (unrated by default) or Save all, from map or list, after filtering if wanted. Back on your map, their takes stay under Saved by. |
 | 23 | Map data | Apple Maps (MapKit) for the map and places. Places store a source and source ID so another provider (such as Google) can be added later if travel coverage is thin. |
+| 24 | Photos on takes (2026-11-04) | A take can include photos, alongside stars, tags and a note. Prototype shows up to 6. |
+| 25 | Adding tags (2026-11-04) | Tags must be easy to add from the spot sheet: type to search your existing tags, or create a new one in one tap. Tags can be removed from the same row. |
+| 26 | Playlists (2026-11-04) | A playlist is an ordered sequence of places, a day someone designs (for example: Wildwood Trail, then Afuri Ramen, then a Timbers game). Build it step by step, add the next stop, drag to reorder, share it. Viewers open it in map mode, stop 1 first, then the next. Working name: Playlists. |
 
 ## Open questions
+
+- Icons: pick one of four directions (fine line, bold solid, color tiles, your emoji) on the v3 prototype page.
+- Friends on the map: initial disc, photo with color ring, serif monogram, or a ring of friend colors around the place icon.
+- Navigation: a bottom tab bar (Map, Playlists, You) or keep one map screen with Playlists reached from it.
+- Playlists: can a stop have a time and travel mode? Can friends add to someone's playlist? Is "Playlists" the final name?
 
 - What full access unlocks beyond regular friends.
 - When Rate your spots appears: on demand only, or prompted after a trip.
