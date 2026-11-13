@@ -6,7 +6,8 @@ A private map of places your friends vouch for. Network and locals over generic 
 
 - `docs/decisions.md`: every product decision, the rating scale and the open questions. This is the source of truth for the build.
 - `docs/backend.md`: the Supabase project and backend rules.
-- `Atlas/DesignSystem/Theme.swift`: the design tokens in code.
+- `docs/design-system.md`: the design system (direction, tokens, rating and pin rules, open questions).
+- `Atlas/DesignSystem/Theme.swift`: the design tokens in code. Keep it matching `docs/design-system.md`.
 
 The discussion behind them lives on claude.ai (private links, may need Indy's login): product plan https://claude.ai/artifact/KrXX51vr7fGbrnPoXQRG3q, design system https://claude.ai/artifact/7FDUpN8Uqqo573aTxu4EXZ, prototype https://claude.ai/artifact/Luz4nDh7dYsz6WsmQ58exD.
 
