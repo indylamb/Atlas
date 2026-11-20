@@ -63,10 +63,11 @@ Atlas puts the knowledge of your network and of locals ahead of generic AI and p
 | 25 | Adding tags (2026-11-04) | Tags must be easy to add from the spot sheet: type to search your existing tags, or create a new one in one tap. Tags can be removed from the same row. |
 | 26 | Playlists (2026-11-04) | A playlist is an ordered sequence of places, a day someone designs (for example: Wildwood Trail, then Afuri Ramen, then a Timbers game). Build it step by step, add the next stop, drag to reorder, share it. Viewers open it in map mode, stop 1 first, then the next. Working name: Playlists. |
 | 27 | Icons (2026-11-19) | Fine line: thin 1.5 outline glyphs on warm-gray tiles, in the spirit of Notion (option A on the prototype's v3 page). |
+| 28 | Pins (2026-11-19) | Place first, ring of friends: every pin shows the place's icon on white; a ring around it splits evenly into the colors of everyone who saved it (you in ink). Three or more people adds a small count badge. Haven't been: gray center, muted icon. Must hit keeps the star badge. Up to 8 friend colors, assigned in order. Places no one saved stay small gray dots. |
+| 29 | Spot sheet (2026-11-19) | Tapping the map lowers the spot sheet to a short peek (name, who saved it, actions); tapping the peek or the handle raises it again. |
 
 ## Open questions
 
-- Friends on the map: leaning toward a ring of friend colors around the place icon, with 8 friend colors (being tried on the v3 page).
 - Navigation: a bottom tab bar (Map, Playlists, You) or keep one map screen with Playlists reached from it.
 - Playlists: can a stop have a time and travel mode? Can friends add to someone's playlist? Is "Playlists" the final name?
 

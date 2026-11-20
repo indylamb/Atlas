@@ -2,7 +2,7 @@
 
 The repo's copy of the design system (draft v0.2), for coding sessions. It's edited visually at https://claude.ai/artifact/7FDUpN8Uqqo573aTxu4EXZ (pinned in Indy's claude.ai sidebar), and every change there is copied here. In code, the tokens live in `Atlas/DesignSystem/Theme.swift`, which must match this file.
 
-Last synced: 2026-11-13.
+Last synced: 2026-11-19.
 
 ## Direction: Uber meets The New York Times meets Notion
 
@@ -38,6 +38,11 @@ Last synced: 2026-11-13.
 | `friend-1` | #C2410C | #FB923C | First friend |
 | `friend-2` | #2F7D4F | #4ADE80 | Second friend |
 | `friend-3` | #3B5BDB | #7C9CFF | Third friend |
+| `friend-4` | #7C3AED | n/a yet | Fourth friend |
+| `friend-5` | #0F766E | n/a yet | Fifth friend |
+| `friend-6` | #BE185D | n/a yet | Sixth friend |
+| `friend-7` | #A16207 | n/a yet | Seventh friend |
+| `friend-8` | #475569 | n/a yet | Eighth friend |
 | `share-frame` | #111111 | #F2F2F0 | Send-mode border |
 
 ## Type
@@ -68,16 +73,18 @@ Serif: Newsreader (Apple's New York in the app for now). Sans: DM Sans (SF Pro i
 | 3 to 4 | Good | Standard pin |
 | 4.5 to 5 | Must hit | Pin with a star badge |
 
-## Pins
+## Pins (decision 28)
 
-- Yours: an ink disc with the tag's outline icon.
-- A friend's: a disc in their color with their initial.
-- Saved by several people: overlapping discs, offset 14.
-- Unsaved place: a small gray dot with a white ring.
+- Every saved place: a 38pt white disc with the place's Fine line icon in ink.
+- A ring around it, 3.5 wide, split evenly into the colors of everyone who saved it: you in ink, friends in their colors, small gaps between segments.
+- Three or more people: a small ink count badge, top left.
+- Haven't been (no ratings): warm-gray center, muted icon.
+- Must hit: star badge, top right.
+- Places no one saved: a small gray dot with a white ring.
+- In "Saved by" lines, people show as 10pt color dots.
 
 ## Open
 
-- Icon direction: fine line, bold solid, color tiles or your emoji (prototype v3 page).
-- How friends show on the map: initial disc, photo with color ring, serif monogram, or a ring of friend colors.
+- Dark-mode values for friend-4 to friend-8.
 - Custom fonts or Apple's native New York and SF Pro.
 - How many friend layers at once; automatic or chosen friend colors.
