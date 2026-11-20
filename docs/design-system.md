@@ -38,11 +38,11 @@ Last synced: 2026-11-19.
 | `friend-1` | #C2410C | #FB923C | First friend |
 | `friend-2` | #2F7D4F | #4ADE80 | Second friend |
 | `friend-3` | #3B5BDB | #7C9CFF | Third friend |
-| `friend-4` | #7C3AED | n/a yet | Fourth friend |
-| `friend-5` | #0F766E | n/a yet | Fifth friend |
-| `friend-6` | #BE185D | n/a yet | Sixth friend |
-| `friend-7` | #A16207 | n/a yet | Seventh friend |
-| `friend-8` | #475569 | n/a yet | Eighth friend |
+| `friend-4` | #7C3AED | #A78BFA | Fourth friend |
+| `friend-5` | #0F766E | #2DD4BF | Fifth friend |
+| `friend-6` | #BE185D | #F472B6 | Sixth friend |
+| `friend-7` | #A16207 | #FACC15 | Seventh friend |
+| `friend-8` | #475569 | #94A3B8 | Eighth friend |
 | `share-frame` | #111111 | #F2F2F0 | Send-mode border |
 
 ## Type
@@ -85,6 +85,5 @@ Serif: Newsreader (Apple's New York in the app for now). Sans: DM Sans (SF Pro i
 
 ## Open
 
-- Dark-mode values for friend-4 to friend-8.
 - Custom fonts or Apple's native New York and SF Pro.
 - How many friend layers at once; automatic or chosen friend colors.
