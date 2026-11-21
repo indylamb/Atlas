@@ -10,7 +10,7 @@ enum Theme {
     enum Palette {
         static let surface = Color(light: 0xFFFFFF, dark: 0x191919)
         static let surfaceRaised = Color(light: 0xF6F6F4, dark: 0x252525)
-        static let ink = Color(light: 0x111111, dark: 0xF2F2F0)
+        static let ink = Color(light: 0x002A5F, dark: 0xF2F2F0)
         static let onInk = Color(light: 0xFFFFFF, dark: 0x111111)
         static let inkMuted = Color(light: 0x6B6B68, dark: 0xA1A19C)
         static let rule = Color(light: 0xE7E7E4, dark: 0x2F2F2F)

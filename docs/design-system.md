@@ -6,7 +6,7 @@ Last synced: 2026-11-19.
 
 ## Direction: Uber meets The New York Times meets Notion
 
-- **Uber: the map and the controls.** Grayscale map, white pill search bar, round black buttons, bold sans labels. Chrome stays monochrome so friend colors are the only color on screen.
+- **Uber: the map and the controls.** Grayscale map, white pill search bar, round navy buttons, bold sans labels. Chrome stays monochrome so friend colors are the only color on screen.
 - **The New York Times: the words.** Spot names and screen titles in a serif (`display`). Friends' notes set as italic pull quotes (`quote`). Sections open with small-caps kickers and are divided by hairline rules, not boxes.
 - **Notion: the details.** A spot's facts are a property list: gray labels left, values right. Thin outline icons on warm-gray tiles. Plain toggles and segmented controls with 6px corners.
 
@@ -23,7 +23,7 @@ Last synced: 2026-11-19.
 | --- | --- | --- | --- |
 | `surface` | #FFFFFF | #191919 | Sheets, panels, search bar |
 | `surface-raised` | #F6F6F4 | #252525 | Chips at rest, icon tiles, inputs |
-| `ink` | #111111 | #F2F2F0 | Text, primary buttons, your own pins |
+| `ink` | #002A5F | #F2F2F0 | Text, primary buttons, your own pins. Gap navy, 14:1 on surface |
 | `on-ink` | #FFFFFF | #111111 | Text and icons on ink |
 | `ink-muted` | #6B6B68 | #A1A19C | Labels, descriptions, captions |
 | `rule` | #E7E7E4 | #2F2F2F | Hairlines, never text |
@@ -43,7 +43,7 @@ Last synced: 2026-11-19.
 | `friend-6` | #BE185D | #F472B6 | Sixth friend |
 | `friend-7` | #A16207 | #FACC15 | Seventh friend |
 | `friend-8` | #475569 | #94A3B8 | Eighth friend |
-| `share-frame` | #111111 | #F2F2F0 | Send-mode border |
+| `share-frame` | #002A5F | #F2F2F0 | Send-mode border |
 
 ## Type
 

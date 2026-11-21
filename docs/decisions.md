@@ -65,6 +65,8 @@ Atlas puts the knowledge of your network and of locals ahead of generic AI and p
 | 27 | Icons (2026-11-19) | Fine line: thin 1.5 outline glyphs on warm-gray tiles, in the spirit of Notion (option A on the prototype's v3 page). |
 | 28 | Pins (2026-11-19) | Place first, ring of friends: every pin shows the place's icon on white; a ring around it splits evenly into the colors of everyone who saved it (you in ink). Three or more people adds a small count badge. Haven't been: gray center, muted icon. Must hit keeps the star badge. Up to 8 friend colors, assigned in order. Places no one saved stay small gray dots. |
 | 29 | Spot sheet (2026-11-19) | Tapping the map lowers the spot sheet to a short peek (name, who saved it, actions); tapping the peek or the handle raises it again. |
+| 30 | Main color (2026-11-19) | Ink is Gap navy #002A5F instead of black: text, primary buttons, your own pins, the send frame. Dark mode keeps light ink #F2F2F0. |
+| 31 | Search, ask, or plan (2026-11-19) | The home search bar opens an assistant that searches, makes lists and plans days, answering only from your spots and friends' spots. Results can be saved as a list or playlist, or shown on the map. |
 
 ## Open questions
 
